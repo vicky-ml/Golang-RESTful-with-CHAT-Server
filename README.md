@@ -9,3 +9,6 @@
 
 ### Chat Server
 ![ChatServer](https://github.com/vicky-ml/Golang-RESTful-with-CHAT-Server/blob/master/Selection_005.png)
+
+
+(the global chat server is incomplete)
